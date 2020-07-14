@@ -1,0 +1,71 @@
+*{
+	font-size:16px;
+	font-family:tahoma,'arial black',calibri;
+	list-style-type:disc;
+}
+.main{
+	width:100%;
+}
+div > header{
+	font-size:30px;
+}
+.firstheader{
+	border:18px, solid #eee;
+	font-size:2.5rem;
+	font-family:algerian;
+	line-height:1.5;
+	text-align:center;
+}
+.contactinformation > u{
+	font-size:2em;
+	font-family:helvetica,'arial black',algerian;
+	margin-left:10px;
+}
+.firstparagraph > span{
+	display:block;
+	line-height:1.5;
+	font-size:18px;
+	font-family:'lucida sans','arial black';
+	word-spacing:2px;
+	margin-left:20px;
+}
+.address,.telephone,.country,.email{
+	color:#aadd12;
+}
+.strong{
+	font-size:21px;
+	font-family:'franklin gothic demi';
+}
+.secondheader > u{
+	font-size:2em;
+	font-family:tahoma;
+}
+.secondheader{
+	margin-top:25px;
+	margin-left:5px;
+}
+.skills,ul{
+	margin-left:50px;
+}
+.job{
+	margin-left:-20px;
+	font-size:22px;
+	font-weight:bold;
+	color:red;
+}
+.firstcompany{
+	font-size:20px;
+	color:#aadd12;
+}
+.education > u{
+	margin-left:20px;
+	font-size:30px;
+	font-weight:bold;
+	color:red;
+}
+.degree_type,ul{
+	margin:50px;
+}
+.degree{
+	display:block;
+}
